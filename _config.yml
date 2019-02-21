@@ -80,4 +80,4 @@ theme: landscape
 deploy:
   type: git
   repository: git@github.com:missingship/missingship.github.io.git
-  branch: master 
+  branch: master
